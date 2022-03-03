@@ -162,6 +162,10 @@
       <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://c2gpreview.com/images/mdot-logo.jpg</image:loc>
+      <image:caption>DC.gov logo</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>http://c2gpreview.com/images/lauren%20headshot-crop-u151501.png</image:loc>
     </image:image>
     <image:image>
@@ -169,10 +173,6 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/michael%20headshot-crop-u151503.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/mdot-logo2.jpg</image:loc>
-      <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/lauren%20headshot-crop-u1515012.png</image:loc>
@@ -204,7 +204,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/i94-burns-to-barrett-small-business-traffic-signal-design.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -223,7 +223,7 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/mdot-logo2.jpg</image:loc>
+      <image:loc>http://c2gpreview.com/images/mdot-logo.jpg</image:loc>
       <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
@@ -263,11 +263,11 @@
       <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/dena%20headshot.png</image:loc>
+      <image:loc>http://c2gpreview.com/images/mdot-logo.jpg</image:loc>
+      <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/mdot-logo2.jpg</image:loc>
-      <image:caption>DC.gov logo</image:caption>
+      <image:loc>http://c2gpreview.com/images/dena%20headshot.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/lauren%20headshot-crop-u152857.png</image:loc>
@@ -350,7 +350,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/planning.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -443,7 +443,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/nchrp-08-125-study-of-future-competencies.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -462,11 +462,11 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u166096.jpg</image:loc>
+      <image:loc>http://c2gpreview.com/images/1280px-transportation_research_board_logosvg.png</image:loc>
+      <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/1280px-transportation_research_board_logosvg2.png</image:loc>
-      <image:caption>DC.gov logo</image:caption>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u166096.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1660962.jpg</image:loc>
@@ -567,7 +567,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/ncdot-eau-picsviz.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -586,14 +586,11 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/nicole%20headshot.png</image:loc>
+      <image:loc>http://c2gpreview.com/images/1200px-seal_of_the_north_carolina_department_of_transportationsvg.png</image:loc>
+      <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/arron%20headshot.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/1200px-seal_of_the_north_carolina_department_of_transportationsvg3.png</image:loc>
-      <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/1200px-seal_of_the_north_carolina_department_of_transportationsvg69x69.png</image:loc>
@@ -1260,7 +1257,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/review-of-georgia-legislation---house-bill-930.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1442,7 +1439,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/capital-budget-support-services.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1468,10 +1465,6 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/tina%20headshot-crop-u156497.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/800px-wmata_metro_logosvg50x65.png</image:loc>
-      <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1564462.jpg</image:loc>
@@ -1502,6 +1495,10 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/tina%20headshot-crop-u1564973.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/800px-wmata_metro_logosvg51x64.png</image:loc>
+      <image:caption>DC.gov logo</image:caption>
     </image:image>
   </url>
   <url>
@@ -1555,7 +1552,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/jta-strategic-managment-services.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1670,7 +1667,7 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/mdot-logo2.jpg</image:loc>
+      <image:loc>http://c2gpreview.com/images/mdot-logo.jpg</image:loc>
       <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
@@ -1688,7 +1685,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/fast-transit-development-plan-update.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1707,11 +1704,11 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/arron%20headshot-crop-u160686.png</image:loc>
+      <image:loc>http://c2gpreview.com/images/fast%20logo-50.jpg</image:loc>
+      <image:caption>DC.gov logo</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/fast%20logo-502.jpg</image:loc>
-      <image:caption>DC.gov logo</image:caption>
+      <image:loc>http://c2gpreview.com/images/arron%20headshot-crop-u160686.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/arron%20headshot-crop-u1606862.png</image:loc>
@@ -1725,7 +1722,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/dekalb-county-transit-master-plan.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1762,7 +1759,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/organizational-assessment-and-performance-improvement.html</loc>
-    <lastmod>2022-03-02</lastmod>
+    <lastmod>2022-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

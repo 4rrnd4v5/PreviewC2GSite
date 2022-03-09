@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://c2gpreview.com/index.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,15 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/pexels-fauxels-3184634.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/business-people-video-call-meeting%20(1).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/pexels-nate-hovee-5063779.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/dallas-crop-u100639.png</image:loc>
@@ -120,16 +111,10 @@
       <image:loc>http://c2gpreview.com/images/unnamed-crop-u1006672.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/dallas-crop-u1006394.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://c2gpreview.com/images/dc-gov-vector-logo69x38.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/mmetro-crop-u264081-crop-u1006494.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/coa177x177-crop-u1006424.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/1612547592256-crop-u1006444.jpg</image:loc>
@@ -138,12 +123,72 @@
       <image:loc>http://c2gpreview.com/images/jta_med-crop-u1006564.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://c2gpreview.com/images/dallas.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-fauxels-3184634-crop-u100540.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/business-people-video-call-meeting%20(1)-crop-u100542.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-nate-hovee-5063779-crop-u100544.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-fauxels-3184634-crop-u1005402.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/business-people-video-call-meeting%20(1)-crop-u1005422.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-nate-hovee-5063779-crop-u1005442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-fauxels-3184634-crop-u1005403.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/business-people-video-call-meeting%20(1)-crop-u1005423.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-nate-hovee-5063779-crop-u1005443.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-fauxels-3184634-crop-u1005404.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/business-people-video-call-meeting%20(1)-crop-u1005424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-nate-hovee-5063779-crop-u1005444.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/coa177x177.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-fauxels-3184634-crop-u1005405.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/business-people-video-call-meeting%20(1)-crop-u1005425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-nate-hovee-5063779-crop-u1005445.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/mmetro-crop-u264081-crop-u1006495.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/1612547592256-crop-u1006445.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/jta_med-crop-u1006565.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/blue-water-bridge-plaza-expansion.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -195,10 +240,16 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/lauren%20headshot2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/lauren%20headshot-crop-u1528574.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dena%20headshot-crop-u1531894.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/ncdot-eau-picsviz.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -241,7 +292,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/arc-diversity,-equity---inclusion-strategic-plan.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -302,10 +353,16 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/tracey%20headshot75x85.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1553754.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/tracey%20headshot-crop-u1553734.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/i-94-burns-to-barrett-small-business-traffic-signal-design.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -342,10 +399,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/lauren%20headshot2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/lauren%20headshot-crop-u1521284.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/i-75-modernization-represenative-consultant.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -409,10 +469,19 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/michael%20headshot.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/lauren%20headshot-crop-u1515014.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dena%20headshot-crop-u1514994.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/michael%20headshot-crop-u1515034.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/jta-post-covid-19-strategic-plan.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -461,10 +530,17 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/jta_med-crop-u1566595.jpg</image:loc>
+      <image:caption>DC.gov logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1566814.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/traffic-engineering.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -521,10 +597,19 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/chuttersnap-catzgyxjzhk-unsplash-crop-u1755085.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/barbara%20headshot-crop-u1755035.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/lauren%20headshot-crop-u1755335.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/our-history.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -548,7 +633,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/services.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -572,7 +657,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/our-leadership.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -599,7 +684,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/about-us.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -623,7 +708,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/capital-budget-support-services.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -687,10 +772,16 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/tina%20headshot2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1564464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/tina%20headshot-crop-u1564973.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/projects---clients.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -813,10 +904,28 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dallas-crop-u1922525.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dc-gov-vector-logo49x27.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/mmetro-crop-u264081-crop-u1922665.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/coa177x177-crop-u1922365.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/1612547592256-crop-u1922405.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/jta_med-crop-u1922435.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/contact.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -840,7 +949,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/clients.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1068,10 +1177,52 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/1612547592256-crop-u1218095.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/jta_med-crop-u1215515.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dallas-crop-u1218533.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/coa177x177-crop-u1220955.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/mmetro-crop-u264081-crop-u1219415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/1612547592256-crop-u921805.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/jta_med-crop-u1220735.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/mmetro-crop-u264081-crop-u1217655.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dc-gov-vector-logo86x48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/jta_med-crop-u921605.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/mmetro-crop-u264081-crop-u1218975.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dekalbcountylogo148x30.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/1200px-ddot-logosvg56x55.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/1200px-ddot-logosvg45x45.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/careers.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1104,10 +1255,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-christina-morillo-1181406-crop-u917675.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/dgs-capital-program-management-services.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1159,10 +1313,17 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele-removebg-preview-removebg-preview40x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/dcgov-crop-u752045.png</image:loc>
+      <image:caption>DC.gov logo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/projects.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1264,7 +1425,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/advisory.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1303,10 +1464,16 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-christina-morillo-1181406-crop-u1128765.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele-removebg-preview-removebg-preview45x53.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/fast-transit-development-plan-update.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1343,10 +1510,13 @@
       <image:loc>http://c2gpreview.com/images/fast%20logo-502.jpg</image:loc>
       <image:caption>DC.gov logo</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/arron%20headshot-crop-u1606864.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/planning.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1379,10 +1549,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/maria-thalassinou-srpdt0zxxiy-unsplash-crop-u1744555.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/design---construction-mgmt.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1439,10 +1612,19 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/pexels-rodolfo-quir%C3%B3s-2219024-crop-u1778945.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/barbara%20headshot-crop-u1778265.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/victor%20headshot-crop-u1777765.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/m-59-from-romeo-plank-to-i-94-full-construction-engineering.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1482,7 +1664,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/atlanta-beltline-inc-pmss.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1531,10 +1713,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/victor%20headshot.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/victor%20headshot-crop-u1574614.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/rockdale-county-pmss.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1583,10 +1768,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/victor%20headshot.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/victor%20headshot-crop-u1583714.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/complete-streets-program-prioritization.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1626,10 +1814,14 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/jta_med-crop-u1594225.jpg</image:loc>
+      <image:caption>DC.gov logo</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/organizational-assessment-and-performance-improvement.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1666,10 +1858,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1641674.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/jta-strategic-managment-services.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1709,10 +1904,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1615604.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/review-of-georgia-legislation---house-bill-930.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1749,10 +1947,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1653894.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/dekalb-county-transit-master-plan.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1789,10 +1990,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1630654.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/nchrp-08-125-study-of-future-competencies.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1829,10 +2033,13 @@
     <image:image>
       <image:loc>http://c2gpreview.com/images/adiele%20headshot2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/adiele%20headshot-crop-u1660964.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://c2gpreview.com/program-management.html</loc>
-    <lastmod>2022-03-08</lastmod>
+    <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1867,6 +2074,9 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/logo%20and%20text%20transparent2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://c2gpreview.com/images/project%20-%20program%20photo%20final-crop-u1741265.jpg</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c2gpreview.com" resolutions="1x" timestamp="1647444589973">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c2gpreview.com" resolutions="1x" timestamp="1647444834388">
   <folder name="css">
     <file name="site_global.css" crc="343395654"/>
     <file name="master_master.css" crc="64953589" ref="traffic-engineering:our-leadership:i-75-modernization-represenative-consultant:about-us:i-94-burns-to-barrett-small-business-traffic-signal-design:design---construction-mgmt:jta-strategic-managment-services:index:blue-water-bridge-plaza-expansion:m-59-from-romeo-plank-to-i-94-full-construction-engineering:projects---clients:ncdot-eau-picsviz:dekalb-county-transit-master-plan:contact:organizational-assessment-and-performance-improvement:clients:arc-diversity,-equity---inclusion-strategic-plan:review-of-georgia-legislation---house-bill-930:careers:capital-budget-support-services:nchrp-08-125-study-of-future-competencies:jta-post-covid-19-strategic-plan:program-management:atlanta-beltline-inc-pmss:planning:rockdale-county-pmss:dgs-capital-program-management-services:complete-streets-program-prioritization:our-history:projects:fast-transit-development-plan-update:services:advisory"/>
@@ -17,8 +17,8 @@
     <file name="nomq_design---construction-mgmt.css" crc="285157741" ref="design---construction-mgmt"/>
     <file name="jta-strategic-managment-services.css" crc="187025983" ref="jta-strategic-managment-services"/>
     <file name="nomq_jta-strategic-managment-services.css" crc="502212373" ref="jta-strategic-managment-services"/>
-    <file name="index.css" crc="4175684094" ref="index"/>
-    <file name="nomq_index.css" crc="3827361335" ref="index"/>
+    <file name="index.css" crc="4009537684" ref="index"/>
+    <file name="nomq_index.css" crc="66166607" ref="index"/>
     <file name="blue-water-bridge-plaza-expansion.css" crc="130146487" ref="blue-water-bridge-plaza-expansion"/>
     <file name="nomq_blue-water-bridge-plaza-expansion.css" crc="275532739" ref="blue-water-bridge-plaza-expansion"/>
     <file name="m-59-from-romeo-plank-to-i-94-full-construction-engineering.css" crc="140137552" ref="m-59-from-romeo-plank-to-i-94-full-construction-engineering"/>
@@ -109,11 +109,11 @@
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
@@ -134,11 +134,11 @@
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
@@ -199,16 +199,16 @@
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
@@ -219,11 +219,11 @@
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
@@ -234,16 +234,16 @@
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
@@ -254,11 +254,11 @@
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
@@ -277,11 +277,11 @@
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
@@ -302,11 +302,11 @@
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
@@ -367,16 +367,16 @@
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
@@ -387,11 +387,11 @@
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
@@ -402,16 +402,16 @@
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
@@ -422,11 +422,11 @@
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
@@ -447,11 +447,11 @@
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
@@ -472,11 +472,11 @@
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
@@ -537,16 +537,16 @@
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
@@ -557,11 +557,11 @@
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
@@ -572,16 +572,16 @@
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
@@ -592,11 +592,11 @@
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
@@ -614,11 +614,11 @@
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
@@ -639,11 +639,11 @@
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
@@ -704,16 +704,16 @@
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
@@ -724,11 +724,11 @@
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
@@ -739,16 +739,16 @@
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
@@ -759,11 +759,11 @@
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
@@ -781,11 +781,11 @@
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
@@ -806,11 +806,11 @@
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
@@ -871,16 +871,16 @@
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
@@ -891,11 +891,11 @@
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
@@ -906,16 +906,16 @@
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
@@ -926,11 +926,11 @@
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
@@ -948,11 +948,11 @@
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
       <caption webpage="program-management" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
-      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="traffic-engineering" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
       <caption webpage="our-history" alt=""/>
@@ -973,11 +973,11 @@
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
       <caption webpage="clients" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
-      <caption webpage="traffic-engineering" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
       <caption webpage="atlanta-beltline-inc-pmss" alt=""/>
@@ -1038,16 +1038,16 @@
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
       <caption webpage="dekalb-county-transit-master-plan" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="projects---clients" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
       <caption webpage="i-75-modernization-represenative-consultant" alt=""/>
@@ -1058,11 +1058,11 @@
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
       <caption webpage="blue-water-bridge-plaza-expansion" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
       <caption webpage="i-94-burns-to-barrett-small-business-traffic-signal-design" alt=""/>
@@ -1073,16 +1073,16 @@
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
       <caption webpage="design---construction-mgmt" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="careers" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
-      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
+      <caption webpage="m-59-from-romeo-plank-to-i-94-full-construction-engineering" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
       <caption webpage="jta-strategic-managment-services" alt=""/>
@@ -1093,11 +1093,11 @@
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
       <caption webpage="nchrp-08-125-study-of-future-competencies" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
-      <caption webpage="projects---clients" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
+      <caption webpage="arc-diversity,-equity---inclusion-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
       <caption webpage="jta-post-covid-19-strategic-plan" alt=""/>
@@ -1333,15 +1333,6 @@
     <file name="closeup-diverse-people-joining-their-hands-u138526-fr2.jpg" crc="324601058" ref="about-us"/>
     <file name="diversity-u15377-fr.jpg" crc="468941129" ref="about-us"/>
     <file name="workforce development final-u15378-fr4.jpg" crc="3801532241" ref="about-us"/>
-    <file name="pexels-fauxels-3184634-crop-u100540.jpg" crc="9021834" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="business-people-video-call-meeting (1)-crop-u100542.jpg" crc="3980148763" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-nate-hovee-5063779-crop-u100544.jpg" crc="210946694" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="trigger circle@4x.png" crc="218990663" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1567,15 +1558,6 @@
     </file>
     <file name="arrow-wht-right.svg" crc="4010701101" ref="index:projects---clients:dgs-capital-program-management-services:advisory:i-75-modernization-represenative-consultant:i-94-burns-to-barrett-small-business-traffic-signal-design:blue-water-bridge-plaza-expansion:ncdot-eau-picsviz:arc-diversity,-equity---inclusion-strategic-plan:capital-budget-support-services:jta-post-covid-19-strategic-plan:atlanta-beltline-inc-pmss:rockdale-county-pmss:complete-streets-program-prioritization:fast-transit-development-plan-update:jta-strategic-managment-services:m-59-from-romeo-plank-to-i-94-full-construction-engineering:dekalb-county-transit-master-plan:organizational-assessment-and-performance-improvement:review-of-georgia-legislation---house-bill-930:nchrp-08-125-study-of-future-competencies:program-management:planning:traffic-engineering:design---construction-mgmt"/>
     <file name="arrow-wht-right_poster_u4821.png" crc="267889028" ref="index:projects---clients:dgs-capital-program-management-services:advisory:i-75-modernization-represenative-consultant:i-94-burns-to-barrett-small-business-traffic-signal-design:blue-water-bridge-plaza-expansion:ncdot-eau-picsviz:arc-diversity,-equity---inclusion-strategic-plan:capital-budget-support-services:jta-post-covid-19-strategic-plan:atlanta-beltline-inc-pmss:rockdale-county-pmss:complete-streets-program-prioritization:fast-transit-development-plan-update:jta-strategic-managment-services:m-59-from-romeo-plank-to-i-94-full-construction-engineering:dekalb-county-transit-master-plan:organizational-assessment-and-performance-improvement:review-of-georgia-legislation---house-bill-930:nchrp-08-125-study-of-future-competencies:program-management:planning:traffic-engineering:design---construction-mgmt"/>
-    <file name="pexels-fauxels-3184634-crop-u1005402.jpg" crc="3962579920" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="business-people-video-call-meeting (1)-crop-u1005422.jpg" crc="3980855345" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-nate-hovee-5063779-crop-u1005442.jpg" crc="353325904" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="06-05-21 i-75 sb meyers rd bridge looking south-u195871-fr.jpg" crc="4006309302" ref="index:projects---clients"/>
     <file name="atlanta beltline trail biker-u195886-fr.jpg" crc="353001574" ref="index:projects---clients"/>
     <file name="dallas-crop-u1006392.png" crc="60206374" seo="true" ref="index">
@@ -1602,15 +1584,6 @@
     <file name="unnamed-crop-u100667.png" crc="4145500135" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-fauxels-3184634-crop-u1005403.jpg" crc="4116510131" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="business-people-video-call-meeting (1)-crop-u1005423.jpg" crc="438917503" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-nate-hovee-5063779-crop-u1005443.jpg" crc="237409869" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="atlanta beltline trail biker-u195886-fr2.jpg" crc="4114633222" ref="index:projects---clients"/>
     <file name="1thumbnail-u195895-fr.jpg" crc="3860137128" ref="index:projects---clients"/>
     <file name="dallas-crop-u1006393.png" crc="3825072992" seo="true" ref="index">
@@ -1634,15 +1607,6 @@
     <file name="unnamed-crop-u1006672.png" crc="3770312847" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pexels-fauxels-3184634-crop-u1005404.jpg" crc="455056752" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="business-people-video-call-meeting (1)-crop-u1005424.jpg" crc="3780841243" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-nate-hovee-5063779-crop-u1005444.jpg" crc="180645837" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="dallas.png" crc="269986287" seo="true" ref="index:clients">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1664,15 +1628,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="jta_med-crop-u1006564.jpg" crc="321365665" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-fauxels-3184634-crop-u1005405.jpg" crc="455056752" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="business-people-video-call-meeting (1)-crop-u1005425.jpg" crc="3780841243" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-nate-hovee-5063779-crop-u1005445.jpg" crc="180645837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mmetro-crop-u264081-crop-u1006495.jpg" crc="4055756150" seo="true" ref="index">
@@ -3382,12 +3337,33 @@
     <file name="07-06-2021 rockdale klondike roundabout stampingadj transp-buttonu177790-r-fr.png" crc="4113200075" ref="design---construction-mgmt"/>
     <file name="washingtondc-u145422-fr.jpg" crc="325409578" ref="projects"/>
     <file name="washingtondc-u145422-fr2.jpg" crc="4267996292" ref="projects"/>
+    <file name="pexels-fauxels-3184634.jpg" crc="3951371618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="business-people-video-call-meeting (1).jpg" crc="4220730904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-nate-hovee-5063779.jpg" crc="4203967530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <file name="our-history.html" crc="3898593622" seo="true" mt="1646844458254" redirect="true"/>
   <file name="services.html" crc="3943274590" seo="true" mt="1646844458254" redirect="true"/>
   <file name="our-leadership.html" crc="337448120" seo="true" mt="1646844458254" redirect="true"/>
   <file name="about-us.html" crc="3967428793" seo="true" mt="1646844458254" redirect="true"/>
-  <file name="index.html" crc="4199887036" seo="true" mt="1647444551675" redirect="true"/>
+  <file name="index.html" crc="361081878" seo="true" mt="1647444807417" redirect="true"/>
   <file name="projects---clients.html" crc="4090553840" seo="true" mt="1646844458254" redirect="true"/>
   <file name="contact.html" crc="3881262162" seo="true" mt="1646844458254" redirect="true"/>
   <file name="clients.html" crc="434746788" seo="true" mt="1646844458254" redirect="true"/>

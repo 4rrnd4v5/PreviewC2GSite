@@ -217,9 +217,6 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://c2gpreview.com/images/dena%20headshot.png</image:loc>
     </image:image>
     <image:image>
@@ -459,9 +456,6 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://c2gpreview.com/images/project%20-%20program%20photo%20final-crop-u174126.jpg</image:loc>
     </image:image>
     <image:image>
@@ -522,7 +516,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/our-history.html</loc>
-    <lastmod>2022-04-11</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -570,7 +564,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/our-leadership.html</loc>
-    <lastmod>2022-04-11</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -590,9 +584,6 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1193,9 +1184,6 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://c2gpreview.com/images/adiele-removebg-preview-removebg-preview71x84.png</image:loc>
     </image:image>
     <image:image>
@@ -1233,7 +1221,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/projects.html</loc>
-    <lastmod>2022-04-11</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1369,9 +1357,6 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://c2gpreview.com/images/pexels-christina-morillo-1181406-crop-u112876.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1415,9 +1400,6 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/barbara%20headshot.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/dena%20headshot.png</image:loc>
@@ -1580,7 +1562,7 @@
   </url>
   <url>
     <loc>http://c2gpreview.com/ncdot-eau-picsviz.html</loc>
-    <lastmod>2022-04-11</lastmod>
+    <lastmod>2022-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1602,6 +1584,10 @@
       <image:loc>http://c2gpreview.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://c2gpreview.com/images/1200px-seal_of_the_north_carolina_department_of_transportationsvg.png</image:loc>
+      <image:caption>DC.gov logo</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>http://c2gpreview.com/images/arron%20headshot.png</image:loc>
     </image:image>
     <image:image>
@@ -1614,10 +1600,6 @@
     </image:image>
     <image:image>
       <image:loc>http://c2gpreview.com/images/1200px-seal_of_the_north_carolina_department_of_transportationsvg78x78.png</image:loc>
-      <image:caption>DC.gov logo</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://c2gpreview.com/images/1200px-seal_of_the_north_carolina_department_of_transportationsvg3.png</image:loc>
       <image:caption>DC.gov logo</image:caption>
     </image:image>
   </url>

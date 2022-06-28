@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://itsc2g.com/index.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -159,13 +159,13 @@
       <image:loc>http://itsc2g.com/images/coa177x177.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/pexels-nate-hovee-5063779-crop-u100555.jpg</image:loc>
+      <image:loc>http://itsc2g.com/images/pexels-nate-hovee-5063779.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/heather%20zull,%20michael%20stanborough,%20lauren%20warren,%20arron%20davis%20c2g.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/pexels-nate-hovee-5063779.jpg</image:loc>
+      <image:loc>http://itsc2g.com/images/pexels-nate-hovee-5063779-crop-u100555.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -485,7 +485,7 @@
   </url>
   <url>
     <loc>http://itsc2g.com/program-management.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -507,21 +507,6 @@
       <image:loc>http://itsc2g.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/project%20-%20program%20photo%20final-crop-u174126.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/project%20-%20program%20photo%20final-crop-u1741262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/project%20-%20program%20photo%20final-crop-u1741263.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/project%20-%20program%20photo%20final-crop-u1741264.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/project%20-%20program%20photo%20final-crop-u1741265.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://itsc2g.com/images/facebook%20black.png</image:loc>
     </image:image>
     <image:image>
@@ -531,10 +516,16 @@
       <image:loc>http://itsc2g.com/images/twitter%20black.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://itsc2g.com/images/c2g%20staff-crop-u174126.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u348135.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u348137.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/c2g%20staff-crop-u1741262.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3481352.png</image:loc>
@@ -543,16 +534,25 @@
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481372.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://itsc2g.com/images/c2g%20staff-crop-u1741263.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3481353.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481373.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://itsc2g.com/images/c2g%20staff-crop-u1741264.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481374.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3481354.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/c2g%20staff-crop-u1741265.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481375.png</image:loc>
@@ -672,7 +672,7 @@
   </url>
   <url>
     <loc>http://itsc2g.com/our-leadership.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -692,9 +692,6 @@
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/facebook%20black-crop-u6411.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/1dc4e74f-34b8-4ef9-8758-ef4acc408e9b-removebg-preview.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/facebook%20black.png</image:loc>
@@ -1330,7 +1327,7 @@
   </url>
   <url>
     <loc>http://itsc2g.com/careers.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1352,19 +1349,19 @@
       <image:loc>http://itsc2g.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/victor%20alao,%20dena%20berrios%20and%20adiele%20nwankwo%20itsc2g-crop-u91767.jpg</image:loc>
+      <image:loc>http://itsc2g.com/images/dark%20modern%20collage%20desktop%20wallpaper%20(1)-crop-u91767.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/victor%20alao,%20dena%20berrios%20and%20adiele%20nwankwo%20itsc2g-crop-u917672.jpg</image:loc>
+      <image:loc>http://itsc2g.com/images/dark%20modern%20collage%20desktop%20wallpaper%20(1)-crop-u917672.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/victor%20alao,%20dena%20berrios%20and%20adiele%20nwankwo%20itsc2g-crop-u917673.jpg</image:loc>
+      <image:loc>http://itsc2g.com/images/dark%20modern%20collage%20desktop%20wallpaper%20(1)-crop-u917673.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/victor%20alao,%20dena%20berrios%20and%20adiele%20nwankwo%20itsc2g-crop-u917674.jpg</image:loc>
+      <image:loc>http://itsc2g.com/images/dark%20modern%20collage%20desktop%20wallpaper%20(1)-crop-u917674.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/victor%20alao,%20dena%20berrios%20and%20adiele%20nwankwo%20itsc2g-crop-u917675.jpg</image:loc>
+      <image:loc>http://itsc2g.com/images/dark%20modern%20collage%20desktop%20wallpaper%20(1)-crop-u917675.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -1443,7 +1440,7 @@
   </url>
   <url>
     <loc>http://itsc2g.com/projects.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1551,7 +1548,7 @@
   </url>
   <url>
     <loc>http://itsc2g.com/advisory.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1573,21 +1570,6 @@
       <image:loc>http://itsc2g.com/images/facebook%20black-crop-u6411.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/pexels-christina-morillo-1181406-crop-u112876.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/pexels-christina-morillo-1181406-crop-u1128762.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/pexels-christina-morillo-1181406-crop-u1128763.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/pexels-christina-morillo-1181406-crop-u1128764.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/pexels-christina-morillo-1181406-crop-u1128765.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://itsc2g.com/images/facebook%20black.png</image:loc>
     </image:image>
     <image:image>
@@ -1597,10 +1579,16 @@
       <image:loc>http://itsc2g.com/images/twitter%20black.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://itsc2g.com/images/barabara%20arens,%20and%20adiele%20nwankwo-crop-u112876.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u347573.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u347575.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/barabara%20arens,%20and%20adiele%20nwankwo-crop-u1128762.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3475732.png</image:loc>
@@ -1609,10 +1597,7 @@
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3475752.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u347811.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u347813.png</image:loc>
+      <image:loc>http://itsc2g.com/images/barabara%20arens,%20and%20adiele%20nwankwo-crop-u1128763.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3475733.png</image:loc>
@@ -1621,22 +1606,22 @@
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3475753.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3478112.png</image:loc>
+      <image:loc>http://itsc2g.com/images/barabara%20arens,%20and%20adiele%20nwankwo-crop-u1128764.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u347813.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u347811.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/barabara%20arens,%20and%20adiele%20nwankwo-crop-u1128765.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3478132.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3478133.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3478113.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3478134.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3478114.png</image:loc>
+      <image:loc>http://itsc2g.com/images/barb_arens_2_6-2022-removebg-preview-crop-u3478112.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1772,7 +1757,7 @@
   </url>
   <url>
     <loc>http://itsc2g.com/planning.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1806,21 +1791,6 @@
       <image:loc>http://itsc2g.com/images/maria-thalassinou-srpdt0zxxiy-unsplash-crop-u1744554.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://itsc2g.com/images/1dc4e74f-34b8-4ef9-8758-ef4acc408e9b-removebg-preview.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/1dc4e74f-34b8-4ef9-8758-ef4acc408e9b-removebg-preview-crop-u206870.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/1dc4e74f-34b8-4ef9-8758-ef4acc408e9b-removebg-preview-crop-u2068702.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/1dc4e74f-34b8-4ef9-8758-ef4acc408e9b-removebg-preview-crop-u2068703.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://itsc2g.com/images/1dc4e74f-34b8-4ef9-8758-ef4acc408e9b-removebg-preview-crop-u2068704.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://itsc2g.com/images/maria-thalassinou-srpdt0zxxiy-unsplash-crop-u1744555.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1833,10 +1803,19 @@
       <image:loc>http://itsc2g.com/images/twitter%20black.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://itsc2g.com/images/andrea_foard_1_6-2022-removebg-preview-crop-u206870.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u348185.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://itsc2g.com/images/andrea_foard_1_6-2022-removebg-preview-crop-u2068702.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481852.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/andrea_foard_1_6-2022-removebg-preview-crop-u2068703.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481853.png</image:loc>
@@ -1845,7 +1824,13 @@
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481854.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://itsc2g.com/images/andrea_foard_1_6-2022-removebg-preview-crop-u2068704.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://itsc2g.com/images/adiele_nwankwo-removebg-preview-crop-u3481855.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://itsc2g.com/images/andrea_foard_1_6-2022-removebg-preview-crop-u2068705.png</image:loc>
     </image:image>
   </url>
   <url>
